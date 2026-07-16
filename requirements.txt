@@ -1,0 +1,28 @@
+# =========================================================
+# Saad Python Project
+# requirements.txt
+# Version 2.1
+# =========================================================
+
+streamlit>=1.45.0
+litellm>=1.75.0
+openai>=1.35.0
+anthropic>=0.34.0
+google-generativeai>=0.8.0
+
+pandas>=2.2.0
+numpy>=2.0.0
+
+python-dotenv>=1.0.1
+requests>=2.32.0
+
+plotly>=5.24.0
+
+oracledb>=2.2.0
+
+openpyxl>=3.1.5
+
+aiohttp>=3.10.0
+
+
+litellm-ainative>=0.1.0
