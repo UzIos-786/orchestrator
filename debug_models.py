@@ -54,7 +54,7 @@ async def test_models():
                 kwargs["api_key"] = os.getenv("OPENROUTER_API_KEY")
                 kwargs["extra_headers"] = {
                     "HTTP-Referer": "http://localhost:8501",
-                    "X-Title": "Rajco AI Orchestrator",
+                    "X-Title": "AI Orchestrator",
                 }
             
             response = await acompletion(**kwargs)

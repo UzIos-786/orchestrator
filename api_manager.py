@@ -56,7 +56,7 @@ class APIManager:
                 kwargs["api_base"] = "https://openrouter.ai/api/v1"
                 kwargs["extra_headers"] = {
                     "HTTP-Referer": "http://localhost:8501",
-                    "X-Title": "Rajco AI Orchestrator",
+                    "X-Title": "AI Orchestrator",
                 }
                 
             elif "xai" in model_name or "grok" in model_name.lower():

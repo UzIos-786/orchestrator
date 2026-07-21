@@ -17,7 +17,7 @@ load_dotenv(BASE_DIR / ".env")
 PROJECT_NAME = "Saad Python Project"
 VERSION = "4.6"
 
-APP_TITLE = "RAJCO AI Orchestrator"
+APP_TITLE = "AI Orchestrator"
 PAGE_ICON = "🤖"
 LAYOUT = "wide"
 SIDEBAR_STATE = "expanded"
