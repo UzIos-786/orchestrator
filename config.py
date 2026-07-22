@@ -14,10 +14,10 @@ from dotenv import load_dotenv
 BASE_DIR = Path(__file__).resolve().parent
 load_dotenv(BASE_DIR / ".env")
 
-PROJECT_NAME = "Designed for "
+PROJECT_NAME = "Designed for DPP"
 VERSION = "4.7"
 
-APP_TITLE = "AI Orchestrator"
+APP_TITLE = "USMAN ZAFAR AI Orchestrator"
 PAGE_ICON = "🤖"
 LAYOUT = "wide"
 SIDEBAR_STATE = "expanded"
