@@ -98,4 +98,4 @@ if st.button("🚀 Run All Models", use_container_width=True):
             st.write(item["response"])
 
 st.divider()
-st.caption("© 2026 UZ Python Project")
+st.caption("© 2026 Python Project")
