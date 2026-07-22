@@ -14,8 +14,8 @@ from dotenv import load_dotenv
 BASE_DIR = Path(__file__).resolve().parent
 load_dotenv(BASE_DIR / ".env")
 
-PROJECT_NAME = "Saad Python Project"
-VERSION = "4.6"
+PROJECT_NAME = "USMAN ZAFAR ORCHESTRATOR"
+VERSION = "4.7"
 
 APP_TITLE = "AI Orchestrator"
 PAGE_ICON = "🤖"
